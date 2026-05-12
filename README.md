@@ -92,6 +92,7 @@ Note: This project benefited from LLM usage. Claude sonnet 4.6 was used to fix t
 ## Contact
 
 Main contributor: Suchita Hothur - shothur04@gmail.com
+
 Advisors: Heng Zheng - hengzheng@uky.edu and Jodi Schneider - jodi@wisc.edu
 
 Project Link: [Githib Link Goes Here]([https://github.com/your_username/repo_name](https://github.com/infoqualitylab/Stance-Detection--Pipeline-Rulemaking-Documents)
