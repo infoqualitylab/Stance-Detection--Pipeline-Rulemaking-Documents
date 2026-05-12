@@ -2,7 +2,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project aims to contribute to an end-to-end pipeline that extracts, cleans and formats data from policy related documents to predict the opinion of third-part stakeholders to proposed federal regulations. It will be used to help understand the complex stances held by organisations towards regulations. We will be able to analyse how alignments amongst blocs of these organisations look and ultimately how this amalgam of opinions affects thr rule making process. 
+This project aims to contribute to an end-to-end pipeline that extracts, cleans and formats data from policy-related documents to predict the opinion of third-party stakeholders on proposed federal regulations. It will be used to help understand the complex stances held by organisations towards regulations. We will be able to analyse how alignments amongst blocs of these organisations look and ultimately how this amalgam of opinions affects the rule-making process. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
