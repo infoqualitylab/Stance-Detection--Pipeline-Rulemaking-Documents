@@ -14,7 +14,8 @@ This project aims to contribute to an end-to-end pipeline that extracts, cleans 
 * Scikit-learn
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+### Quick note on accessibility: 
+This project was built as part of an independent study class under the Department of Library and Information Sciences. As a result, some file references throughout the project live in a box folder that requires authorization to access. Scroll down to the contact tab for people to reach out to if this is an issue.
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -56,6 +57,7 @@ Python:
 <!-- USAGE EXAMPLES -->
 
 ## Usage
+For a detailed report, please refer to the technical report: [Hothur_TechnicalReport] (https://uofi.box.com/s/rcnnkf6862mwhvzj5rqu75t6lpaxu4r1)
 
 - Extract_comments_from_PDF.py:
          
@@ -67,9 +69,9 @@ Python:
 
 - Convert_JSON_to_CSV.py
          
-         This script takes the structured JSON from the previous step and extracts two key elements: the organisation name and the main comment. It also cleans comment text by removing line breaks, in text references, references to external documents etc. The output is a CSV file with two columns: "organization" and "text".
+         This script takes the structured JSON from the previous step and extracts two key elements: the organisation name and the main comment. It also cleans comment text by removing line breaks, in-text references, references to external documents etc. The output is a CSV file with two columns: "organization" and "text".
          
-         To run this file install pandas and json. Run teh command "python3 Convert_JSON_to_CSV.py." Input and output paths can be specified within code itself. 
+         To run this file, install pandas and json. Run teh command "python3 Convert_JSON_to_CSV.py." Input and output paths can be specified within the code itself. 
 
 - Prepare_annotated.py
          
